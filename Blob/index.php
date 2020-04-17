@@ -21,9 +21,9 @@ $name = $_POST['login'];
 $pass = $_POST['password'];
 
 $hostname='ec2-13-233-192-184.ap-south-1.compute.amazonaws.com';
-$username='edureka';
-$password='edureka123';
-$dbname='edureka';
+$username='anamika';
+$password='anamika123';
+$dbname='anamika';
 $usertable='login';
 
 try
